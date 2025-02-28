@@ -1,9 +1,4 @@
 {
- "name": "L'Essence Cuidados da Dor Sul",
- "description": "Bem vindo(a) faça um tour virtual pela clínica!",
- "display": "fullscreen",
- "start_url": "index.htm",
- "theme_color": "#014AAE",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +36,10 @@
    "src": "misc/icon16.png"
   }
  ],
- "background_color": "#014AAE"
+ "name": "L'Essence Cuidados da Dor Sul",
+ "theme_color": "#014AAE",
+ "display": "fullscreen",
+ "description": "Bem vindo(a) faça um tour virtual pela clínica!",
+ "background_color": "#014AAE",
+ "start_url": "index.htm"
 }
